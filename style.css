@@ -41,16 +41,69 @@ body{
     padding: 15px 43px;
     align-items: flex-start;
     gap: 12px;
-    
-
 }
 
-
-
 .himg{
-width: 635px;
-height: 500px;
-padding-right: 100px;
-padding-top: 50px;
+    width: 635px;
+    height: 500px;
+    padding-right: 100px;
+    padding-top: 50px;
 
+}
+/* this is the footer part */
+
+.f-text1{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.f-text2{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+.div1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 400px;
+    height: 475px;
+
+}
+.div2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 400px;
+    height: 475px;
+
+}
+.div3{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 400px;
+    height: 475px;
+}
+
+/* picture section */
+.pic2{
+  margin-top: 150px;
+   
+}
+.pic3{
+    margin-right: 250px;
+  
+}
+.body-fool{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 150px;
+    padding-left: 100px;
 }
