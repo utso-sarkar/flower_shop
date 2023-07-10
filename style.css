@@ -1,0 +1,56 @@
+/* shared style mama */
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+/* /* header-related-style */
+.header-sec{
+    padding-left: 160px;
+    background: rgba(229, 84, 115, 0.10);    
+}
+
+.main-header{
+    display: flex;
+}
+.h-h1{
+    color: #272727;
+    font-family: Lato;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-top: 100px;
+    }
+.h-h6{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 13px;
+    font-size: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 10px;
+    
+    
+}
+.h-btn{
+    border-radius: 8px;
+    background: #E55473;
+    color:aliceblue;
+    border: 0px;
+    display: inline-flex;
+    padding: 15px 43px;
+    align-items: flex-start;
+    gap: 12px;
+    
+
+}
+
+
+
+.himg{
+width: 635px;
+height: 500px;
+padding-right: 100px;
+padding-top: 50px;
+
+}
