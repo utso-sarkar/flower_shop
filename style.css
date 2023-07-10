@@ -60,6 +60,7 @@ body{
     font-style: normal;
     font-weight: 800;
     line-height: normal;
+    padding-top: 95px;
 }
 .f-text2{
     color: rgba(39, 39, 39, 0.60);
@@ -93,12 +94,14 @@ body{
 }
 
 /* picture section */
-.pic2{
-  margin-top: 150px;
+.pic1{
+  padding: 50px;
+  height: 380px;
    
 }
 .pic3{
     margin-right: 250px;
+    padding-left: 20px;
   
 }
 .body-fool{
@@ -107,3 +110,11 @@ body{
     padding-right: 150px;
     padding-left: 100px;
 }
+.pinki{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 15px;
+   margin-bottom: none;
+    display: inline-flex;
+    text-decoration: underline;
