@@ -110,11 +110,45 @@ body{
     padding-right: 150px;
     padding-left: 100px;
 }
-.pinki{
+.pinki , .lali , .holud{
     color: #272727;
-    text-align: center;
-    font-family: Lato;
-    font-size: 15px;
-   margin-bottom: none;
-    display: inline-flex;
-    text-decoration: underline;
+text-align: center;
+font-family: Lato;
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: 35px;
+text-decoration-line: underline;
+}
+
+
+.menu-bar{
+   
+   
+    padding-left: 600px;
+    
+    margin-top: 120px;
+
+    
+}
+.section2{
+    width: 1240px;
+    height: 220px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    margin-right: 30px;
+    margin-top: 200px;
+    padding-right: 20px;
+    
+    
+}
+.job1p , .job2p , .job3p{
+    width: 88px;
+    height: 88px;
+    justify-content: space-between;
+}
+.job{
+    display: flex;
+    justify-content: space-around;
+}
