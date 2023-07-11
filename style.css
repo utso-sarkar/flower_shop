@@ -295,6 +295,7 @@ font-size: 40px;
 font-style: normal;
 font-weight: 800;
 line-height: normal;
+padding-top: 70px;
 }
 
 .section5{
@@ -317,7 +318,7 @@ height: 64px;
     padding-left: 40px;
 }
 .ok{
-    align-items: center;
+    justify-content: center;
 }
 .sbtn{
     border-radius: 8px;
