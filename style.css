@@ -171,6 +171,8 @@ font-weight: 800;
 line-height: normal;
 text-align: center;
 margin-bottom: 30px;
+padding-top: 150px;
+/* padding-right: 50px; */
 
 
 }
@@ -181,7 +183,8 @@ font-family: Lato;
 font-size: 18px;
 font-style: normal;
 font-weight: 400;
-line-height: 30px;
+line-height: 20px;
+align-items: center;
 
 }
 .btnoffer{
@@ -191,7 +194,8 @@ height: 50px;
 width: 150px;
 gap: 10px;
 border: 0px;
-align-items: center;
+
+
 
 
 }
@@ -199,7 +203,12 @@ align-items: center;
     border-radius: 8px;
 background: rgba(229, 84, 115, 0.05);
 width: 1500px;
-height: 420px;
+height: 780px;
+text-align: center;
+
+}
+.sec3{
+    padding-top: 70px;
 }
 
   
@@ -208,12 +217,112 @@ height: 420px;
  display: flex;
 }
 .flw{
-    width: 220px;
-height: 250px;
+    width: 318px;
+height: 420px;
 /* flex-shrink: 0; */
 padding-left: 900px;
-padding-bottom: 100px;
+padding-bottom: 50px;
 }
 .sng{
     color: white;
+}
+.textitem{
+    text-align: center;
+  
+}
+.instra{
+    color: #272727;
+
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+
+}
+.luso{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.section4{
+    padding-left: 140px 140px;
+    padding
+}
+.p2 {
+    padding-left: 50px;
+}
+.p1{
+    padding-left: 10px;
+}
+.p3{
+    padding-left: 10px;
+}
+.p4{
+    padding-left: 10px;
+}
+.imageitem{
+    padding-left: auto;
+}
+.src{
+    border-radius: 8px;
+background: url(<path-to-image>), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+
+flex-shrink: 0;
+padding-left: 50px;
+}
+.imagesrc{
+    width: 1440px;
+height: 400px;
+}
+.janniti{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.deals{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.section5{
+    background-image: url(../flower/lofi.png);
+    width: 1440px;
+height: 300px;
+padding-bottom: 50px;
+}
+.kothin{
+   
+    border-radius: 8px;
+background: #FFF;
+width: 600px;
+height: 64px;
+
+}
+.sec5main{
+    padding-top: 100px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+.ok{
+    align-items: center;
+}
+.sbtn{
+    border-radius: 8px;
+background: #E55473;
+border: 0px;
+width: 150px;
+height: 64px;
 }
