@@ -410,3 +410,47 @@ gap: 10px;
 .convert{
     /* padding-bottom: 90px; */
 }
+
+.hot-deal {
+    margin-top: 150px;
+    height: 620px;
+    padding-right: 350px;
+    padding-left: 300px;
+    background: rgba(229, 84, 115, 0.05);
+    padding-top: 150px;
+}
+
+#div-one {
+    width: 65%;
+    text-align: center;
+    margin-top: 100px;
+}
+
+#div-two {
+    width: 35%;
+}
+
+.same-division {
+    float: left;
+}
+
+.color-add {
+    color: #E55473;
+}
+
+.font-sizing {
+    font-size: 35px;
+}
+
+.color-change {
+    color: rgb(140, 137, 137);
+}
+
+.btn-hover {
+    background-color: #E55473;
+    padding: 12px 30px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
